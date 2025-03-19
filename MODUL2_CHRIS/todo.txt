@@ -1,0 +1,29 @@
+List of things to do
+
+Import Database
+
+create.php
+1. Check if there is any data sent
+2. Define the query to insert data
+
+delete.php
+1. Check if there is any data sent
+2. Define a query to delete data
+3. Run the query
+
+edit_book.php
+1. Check if there is any data sent
+2. Define a query to display data
+
+catalog_book.php
+1. Check if there is any data sent
+2. Validate Input if the search input is less than 3 characters
+3. Validate Input if the search input is not alphanumeric
+4. Create a query to display data
+5. Run the query
+6. Collect the query results into an array
+7. Add the GET Method on line 37
+8. Add the $search Value on line 39
+
+update.php
+1. Check if there is any data sent
